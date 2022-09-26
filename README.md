@@ -6,8 +6,7 @@ Recursive search of intersecting lines to determine polygon. Check if point is i
 Primary use is the isPointInPolygon(x, y) function. This will return true if a point is in a polygon, tree, house, cliff.
 
 TODO:
-  optimize recursive function
-  
-  check if islands are pathable (I have to reach any depth to the game)
+  * optimize recursive function
+  * check if islands are pathable (I have yet to reach any depth to the game)
   
   
